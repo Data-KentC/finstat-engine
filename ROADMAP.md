@@ -10,7 +10,7 @@ Deliverables:
 - Standardized output dataset
 
 Status:
-Not Started
+Complete
 
 ---
 
@@ -19,7 +19,7 @@ Goal:
 Map trial balance accounts to FS line items.
 
 Status:
-Not Started
+In Progress
 
 ---
 
