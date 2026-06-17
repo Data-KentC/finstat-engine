@@ -19,7 +19,7 @@ Goal:
 Map trial balance accounts to FS line items.
 
 Status:
-In Progress
+Complete
 
 ---
 
@@ -31,7 +31,7 @@ Generate:
 - Statement of Cash Flows
 
 Status:
-Not Started
+Complete
 
 ---
 
@@ -40,7 +40,7 @@ Goal:
 Generate disclosure notes.
 
 Status:
-Not Started
+Complete
 
 ---
 
